@@ -9,9 +9,9 @@
 
 # Starting the project
 Run `yarn` in your terminal
-(<br>)
+<br>
 Run `yarn start`
-(<br>)
+<br>
 Check out [http://localhost:3000](http://localhost:3000)
 
 
